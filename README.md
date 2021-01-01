@@ -2,12 +2,8 @@ Random Password Generator Application
 Description
 This random password generator is meant for only the most casual use and is not necessarily cryptographically secure. It will prompt the user to answer what type of characters should be included and the length of the password (between 8 and 128 characters).
 
-Badges
-On some READMEs, you may see small images that convey metadata, such as whether or not all the tests are passing for the project. You can use Shields to add some to your README. Many services also have instructions for adding a badge.
-
 Visuals
 Opening the index.html file in your browser, your screen should display something very similar to this:
-
 
 
 Installation
